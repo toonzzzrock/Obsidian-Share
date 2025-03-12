@@ -9,8 +9,8 @@ Note_types:
   - Atomic_note
 ---
 > [!tldr]
->
-# Prototyping
+> Just prototype from easy to hard
+# prototyping
 
 - Approximate (quick) version of the design so that you can quickly get feedback.
 - Design Hypothesis
