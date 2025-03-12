@@ -1,15 +1,15 @@
 ---
-title: "Prototyping"
+title: "prototyping"
 created_date: "2025-03-12"
 tags: []
-relates: 
+relates:
 status: To_process
 Note_types:
   - Permanent_note
   - Atomic_note
 ---
 > [!tldr]
-> 
+>
 # Prototyping
 
 - Approximate (quick) version of the design so that you can quickly get feedback.
@@ -47,22 +47,22 @@ Prototyping technique order by fidelity
 - Rough idea of UI
 - Reusable widgets
 
-- High-level question 
+- High-level question
 	- Does our design address the problem you want to solve?
 - not low-level question
 	- Is a button size slightly bigger?
-### Wireframing 
+### Wireframing
 - more concrete digital UI
 ![](https://i.imgur.com/B7Slu37.png)
 
 ### Digital mock-ups
 - high-level feedback
 ## Wizard of Oz prototyping
-- users interact with a system that is fully functional but actually a human is performing the system’s functions. 
+- users interact with a system that is fully functional but actually a human is performing the system’s functions.
 ## Video prototyping
 - can be any fidelity
 - effective in showing the context of usage
 
 # Footnotes
 
-[^1]: 
+[^1]:
