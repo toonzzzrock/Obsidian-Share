@@ -2,14 +2,14 @@
 title: "HCI"
 created_date: "2025-03-12"
 tags: []
-relates: 
+relates:
 status: To_process
 Note_types:
   - Permanent_note
   - Atomic_note
 ---
 > [!tldr]
-> 
+>
 # HCI
 
 ## Interaction Design (ID)
@@ -19,7 +19,7 @@ Note_types:
 ## Human-computer Interaction (HCI)
 
 - The study of how people interact with computers and to design technologies that let humans interact with computers in novel ways.
-- This involves the [[needfinding]], [[prototyping]], [[evaluation]]
+- This involves the [[needfinding]], [[Prototyping]], [[evaluation]]
 
 ## Approach to Design
 - To make a good design, we need to understand;
@@ -29,4 +29,4 @@ Note_types:
 
 # Footnotes
 
-[^1]: 
+[^1]:
